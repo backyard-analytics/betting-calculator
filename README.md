@@ -27,7 +27,3 @@ Enter Bet Amount: If it's a single bet, enter the amount for each. For parlays, 
 Calculate: Click the "Calculate" button to see your potential winnings.
 
 
-# View hosted app
-------------------
-https://backyardloop.shinyapps.io/betting_calculator/
-
